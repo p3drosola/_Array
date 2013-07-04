@@ -1,5 +1,5 @@
-# overscore
-Overscore provides a usefull _Array function. It's a subclass of the native Array, with a lot of utility functions from underscore.
+# _Arrray
+_Array is a subclass of the native Array, with a lot of utility functions from underscore.
 
 ## Example
 

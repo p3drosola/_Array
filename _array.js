@@ -3,6 +3,12 @@
   'use strict';
   var array_methods;
 
+  if (!_) {
+    console.warn('Missing underscore!');
+    return;
+  }
+
+
   function _Array () {}
 
   _Array.prototype = Object.create(Array.prototype);
@@ -46,5 +52,3 @@
   };
 
 }(this));
-
-

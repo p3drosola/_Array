@@ -1,0 +1,24 @@
+{
+  "name": "_Array",
+  "version": "0.0.1",
+  "description": "Array with superpowers",
+  "main": "_array.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/p3drosola/_Array.git"
+  },
+  "keywords": [
+    "Array",
+    "underscore"
+  ],
+  "author": "Pedro Solá <p3dro.sola@gmail.com>",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "bca97bcd628eb7b414485b84a4bdb1b38b6eacbb",
+  "dependencies": {
+    "underscore": "~1.4.4"
+  }
+}
